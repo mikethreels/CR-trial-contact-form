@@ -332,6 +332,7 @@ li {
 }
 
 .contact_form_header {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   max-width: 20vw;
   margin: 50px 30px 0 10vw;
 }
@@ -363,7 +364,7 @@ textarea {
   margin: 5px;
   width: 80%;
   border: none;
-  background-color: rgb(241, 233, 216);
+  background-color: #fbf8f7;
 }
 
 .submit_button {
